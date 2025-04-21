@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Web Auth Example</string>
+    <string name="main_activity_title">Web Auth Example</string>
+</resources>
