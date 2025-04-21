@@ -9,7 +9,7 @@
 > This plugin only works on iOS and Android. I have no plan to bring it to Desktop. I will answer pull requests though
 
 # Demo
-\[future me insert video here]
+https://github.com/user-attachments/assets/d65ea5b1-1e47-43fc-9cff-545b946987d3
 
 # Usage
 ## `src-tauri/src/lib.rs`
