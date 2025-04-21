@@ -5,7 +5,7 @@
 > [!WARNING]
 > I have NOT tested this plugin in conjunction with the Tauri Deep Linking plugin. It MAY be incompatible. I cannot guarantee this will work with your setup.
 
-> [!INFO]
+> [!NOTE]
 > This plugin only works on iOS and Android. I have no plan to bring it to Desktop. I will answer pull requests though
 
 # Demo
